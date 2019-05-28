@@ -1,2 +1,1 @@
-# analytics-data
 # data-analytics
